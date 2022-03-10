@@ -1,10 +1,15 @@
 ## Fala ai , Eu sou o Luiz Guilherme 
 
 🎓Formado em tec. em Administração 
+
 💻Cursando Bacharel em SI
+
 ✝ Cristão
+
 🎹Tecladista nas horas vagas
+
 📍São Pedro da Aldeia
+
 
 <div>
   <a href="https://github.com/Luizguilhermecb99">
