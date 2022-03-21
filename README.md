@@ -1,4 +1,4 @@
-## Fala ai , Eu sou o Luiz Guilherme 
+### Fala ai , Eu sou o Luiz Guilherme 
 
 🎓Formado em tec. em Administração 
 
@@ -14,11 +14,16 @@
 <div>
   <a href="https://github.com/LuizGuilhermecb99">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuizGuilhermecb99&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGuilhermecb99&layout=compact&langs_count=7&theme=tokyonight"/>
+ 
 </div>
+<div style="display: inline_block"><br>
 
 ##
+  ### Linguagens que eu utilizo
+   
+  [![Linguagens que utilizo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 
+  ### Redes Sociais
   <div>
      <a href="https://instagram.com/luiz_guilh3rme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:luizguilhermecb99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
