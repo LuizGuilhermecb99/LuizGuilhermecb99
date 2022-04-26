@@ -1,12 +1,12 @@
-### Fala ai , Eu sou o Luiz Guilherme 
+### what's up , I´m  Luiz Guilherme 
 
-🎓Formado em tec. em Administração 
+🎓Graduated in Management Technician
 
-💻Cursando Bacharel em SI
+💻Studying a Bachelor's Degree in SI
 
-✝ Cristão
+✝ Christian
 
-🎹Tecladista nas horas vagas
+🎹Keyboardist in spare time
 
 📍São Pedro da Aldeia
 
