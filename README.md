@@ -16,7 +16,9 @@
 ##
   ### Linguagens que eu utilizo
    
-  [![Linguagens que utilizo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+  ![Linguagens que utilizo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  
 
   ### Redes Sociais
   <div>
