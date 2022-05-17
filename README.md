@@ -11,12 +11,7 @@
 📍São Pedro da Aldeia
 
 
-<div>
-  <a href="https://github.com/LuizGuilhermecb99">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LuizGuilhermecb99&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
- 
-</div>
-<div style="display: inline_block"><br>
+
 
 ##
   ### Linguagens que eu utilizo
