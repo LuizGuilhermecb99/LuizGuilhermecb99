@@ -14,7 +14,7 @@
 
 
 ##
-  ### Linguagens que eu utilizo
+  ### Linguagens que eu utilizo & Desenvolvendo 
    
   ![Linguagens que utilizo](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   ![Linguagens que utilizo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
