@@ -1,8 +1,8 @@
 ### what's up , I´m  Luiz Guilherme 
 
-🎓Graduated in Management Technician
+🤗 one of my dreams is to have a music studio with several instruments at home and play as a hobby
 
-💻Studying a Bachelor's Degree in SI
+🎵 I prefer to put specific music volumes on the headphones : Even numbers
 
 ✝ Christian
 
