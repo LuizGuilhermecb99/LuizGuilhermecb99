@@ -14,7 +14,7 @@
 
 
 ##
-  ### Linguagens que eu utilizo & Desenvolvendo 
+  ### Languages that i use and being studied
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957369501333196840/1003054970138001478/Design_sem_nome_4.gif">
 
@@ -23,10 +23,13 @@
   ![Linguagens que utilizo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Linguagens que utilizo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Linguagens que utilizo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   
   
   
 ##
+  ### Social Network and Contact
   <div>
      <a href="https://instagram.com/luiz_guilh3rme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:luizguilhermecb99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -34,7 +37,12 @@
    
   </div>
   
-  
+##
+  ### Design tools I use
+        
+   ![Design](https://aleen42.github.io/badges/src/photoshop.svg)
+    
+    
   
   
     
