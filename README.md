@@ -4,6 +4,8 @@
 
 🎵 I prefer to put specific music volumes on the headphones : Even numbers
 
+🎞 I really like watching series and eating açai
+
 ✝ Christian
 
 🎹Keyboardist in spare time
