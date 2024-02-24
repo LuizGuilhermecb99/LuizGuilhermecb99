@@ -42,11 +42,7 @@
    
   </div>
   
-##
-  ### Design tools I use
-        
-   ![Design](https://aleen42.github.io/badges/src/photoshop.svg)
-    
+
     
   
     
